@@ -20,7 +20,7 @@
 ### ⚙️ Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,html,css,tailwind,js,mysql,git,github,linux,vscode&perline=13" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,laravel,html,css,tailwind,js,mysql,git,github,linux,vscode&perline=13" alt="Tecnologías" />
 </p>
 
 ### 📌 Proyectos destacados
